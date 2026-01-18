@@ -46,7 +46,7 @@ Sample Sales Data
 
 
 ## Dashboard Preview
-[Dashboard Screenshot](images/dashboard.png)
+[Dashboard Screenshot](images/dashboard.PNG)
 
 
 ## Deliverables
