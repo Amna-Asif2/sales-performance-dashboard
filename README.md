@@ -8,16 +8,16 @@ This project analyzes sales performance using historical sales data to identify 
 
 The goal was to practice **data cleaning, Excel analysis, pivot tables, and dashboard creation**.
 
-## 🧰 Tools Used
+## Tools Used
 - Excel (Data Cleaning, Formulas, Pivot Tables)
 - Tableau (Dashboard Visualization)
 - GitHub (Project Showcase)
 
-## 📊 Dataset
+## Dataset
 Source: Kaggle  
 Sample Sales Data
 
-## 🪜 Project Workflow
+## Project Workflow
 
 ### Step 1: Data Cleaning
 - Removed empty rows
@@ -45,17 +45,17 @@ Sample Sales Data
 - North America leads in overall sales performance
 
 
-## 📈 Dashboard Preview
+## Dashboard Preview
 [Dashboard Screenshot](images/dashboard.png)
 
 
-## 📦 Deliverables
-- 📁 Excel analysis file
-- 📊 Tableau dashboard
-- 📝 1-page project summary
+## Deliverables
+- Excel analysis file
+- Tableau dashboard
+- 1-page project summary
 
 
-## 🚀 Key Skills Demonstrated
+## Key Skills Demonstrated
 - Data Cleaning
 - Excel Formulas & Pivot Tables
 - Dashboard Design
@@ -63,7 +63,7 @@ Sample Sales Data
 - Data Storytelling
 
 
-## 👤 Author
+## Author
 Amna Asif
 Aspiring Data Analyst
 
