@@ -1,7 +1,7 @@
 # sales-performance-dashboard
-Beginner sales analytics project analyzing trends, top products, and regional performance using Excel and Tableau.
+Sales analytics project analyzing trends, top products, and regional performance using Excel and Tableau.
 
-# Sales Performance Dashboard (Beginner Project)
+# Sales Performance Dashboard 
 
 ## Project Overview
 This project analyzes sales performance using historical sales data to identify trends, top-performing products, and regional sales distribution.
