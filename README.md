@@ -65,5 +65,3 @@ Sample Sales Data
 
 ## Author
 Amna Asif
-Aspiring Data Analyst
-
